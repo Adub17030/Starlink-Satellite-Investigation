@@ -1,5 +1,5 @@
-# Starlink
-# Starlink
+# Starlink Beam Planning Tech Test
+# Python Notebook
 To provide internet to a user, a satellite needs to form a "beam" towards that user, and the user needs to form a beam towards the satellite. If they are both
 pointing at each other, they can form a high-bandwidth wireless link.
 The Starlink satellites are designed to be very flexible. For this problem, each satellite is capable of making up to 32 independent beams simultaneously.
