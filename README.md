@@ -1,4 +1,4 @@
-# Starlink Beam Planning Tech Test
+# Starlink Beam Planning
 # Python Notebook
 To provide internet to a user, a satellite needs to form a "beam" towards that user, and the user needs to form a beam towards the satellite. If they are both
 pointing at each other, they can form a high-bandwidth wireless link.
